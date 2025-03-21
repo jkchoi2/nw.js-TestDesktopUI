@@ -1,0 +1,25 @@
+{
+  "name": "nw.js-testdesktopui",
+  "version": "1.0.0",
+  "description": "Desktop Application UI Test",
+  "main": "test.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkchoi2/nw.js-TestDesktopUI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jkchoi2/nw.js-TestDesktopUI/issues"
+  },
+  "homepage": "https://github.com/jkchoi2/nw.js-TestDesktopUI#readme",
+
+  "dependencies": {
+    "bootstrap": "",
+    "jquery": ""
+  }
+}
